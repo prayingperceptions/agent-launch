@@ -1,0 +1,14 @@
+{
+  "name": "agent-launch",
+  "version": "0.1.0",
+  "description": "Agent Launch — safe token deployment with a transparent 0.5% mint-time protocol fee to the protocol recipient (Base/EVM). Foundry-tested contracts + zero-dep HTTP endpoint.",
+  "type": "module",
+  "scripts": {
+    "start": "node endpoint/server.js",
+    "test": "node endpoint/test.js",
+    "test:contracts": "forge test"
+  },
+  "engines": { "node": ">=18" },
+  "license": "MIT",
+  "keywords": ["agent-launch","agent-stack","token","base","fee","protocol","0.5%"]
+}

@@ -1,0 +1,11 @@
+[profile.default]
+src = "contracts"
+test = "test"
+out = "out"
+libs = ["/Users/cmpgfb/.openclaw/workspace-daily-bread/lib"]
+
+[fmt]
+line_length = 100
+
+[remappings]
+"forge-std/" = "/Users/cmpgfb/.openclaw/workspace-daily-bread/lib/forge-std/src/"
