@@ -12,6 +12,14 @@ token launches safe and fee-bearing, *not* a sniper/front-run bot.
 
 ---
 
+## Keywords & ecosystem
+
+`#Base` `#x402` `#Coinbase` `#BaseDeFi` `#agentEconomy` `#tokenLaunch` `#web3` \
+`#EVMMainnet` · built on [Base](https://base.org) (chainId `8453`), pays over
+[#x402](https://x402.org), deployed via the [Coinbase Developer Platform](https://www.coinbase.com/developer-platform).
+
+---
+
 ## Live on Base mainnet
 
 | Contract | Address (Base) | Basescan |
